@@ -7,6 +7,7 @@ Michal Mitter
   - data import from supplier from .xml and .xls feeds
   - heureka.cz, zbozi.cz, google shopping conversions
   - [catalouge of products](http://4allshop.cz/katalog-autopotahy) using [jQuery booklet plugin by Will Grauvogel](http://www.builtbywill.com/code/booklet/)
+  - [100% Seo servis optimalization](http://seo-servis.cz/source-zdrojovy-kod/10892633)
   - editing of template
 - [SHAVE-LAB.cz](http://shave-lab.cz)
   - editing default template following graphic design
