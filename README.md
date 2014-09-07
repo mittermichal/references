@@ -22,6 +22,7 @@ Michal Mitter
   - data import from WordPress eshop plugin
   - editing of template
   - maintenance
+
 ##Contact
 - mittermichal@gmail.com
 - mitter@actimmy.cz
