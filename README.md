@@ -22,7 +22,7 @@ Michal Mitter
   - data import from WordPress eshop plugin
   - editing of template
   - maintenance
-
 ##Contact
 - mittermichal@gmail.com
 - mitter@actimmy.cz
+- [Prestashop profile](http://www.prestashop.com/forums/user/627060-kimi/)
