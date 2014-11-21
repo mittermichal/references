@@ -22,6 +22,11 @@ Michal Mitter
   - data import from WordPress eshop plugin
   - editing of template
   - maintenance
+- [fontana.ws](http://fontana.ws)
+  - data import from custom eshop
+  - editing of template
+  - maintenance
+  - small customization
 - [Prestashop profile](http://www.prestashop.com/forums/user/627060-kimi/)
 
 ##Contact
