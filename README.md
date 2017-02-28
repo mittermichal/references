@@ -6,7 +6,8 @@ Michal Mitter
   - generating xml feed for heureka.cz, zbozi.cz, google shopping
   - data import from supplier from .xml and .xls feeds
   - heureka.cz, zbozi.cz, google shopping conversions
-  - [catalouge of products](http://4allshop.cz/katalog-autopotahy) using [jQuery booklet plugin by Will Grauvogel](http://www.builtbywill.com/code/booklet/)
+  - import of heureka user reviews: [screenshot](references/Clipboard02.png)
+  - [catalouge of products](http://4allshop.cz/vanocni-katalog) using [jQuery booklet plugin by Will Grauvogel](http://www.builtbywill.com/code/booklet/)
   - [100% Seo servis optimalization](http://seo-servis.cz/source-zdrojovy-kod/10892633)
   - editing of template
 - [SHAVE-LAB.cz](http://shave-lab.cz)
@@ -31,4 +32,3 @@ Michal Mitter
 
 ##Contact
 - mittermichal@gmail.com
-- mitter@actimmy.cz
